@@ -1,0 +1,10 @@
+username: my_twitter_handle
+consumer_key: consumer_key_here
+consumer_secret: consumer_sec_here
+token: token_here
+secret: secret_here
+max_age: 30
+tweets_to_keep:
+  - 1
+  - 2
+  - 999
