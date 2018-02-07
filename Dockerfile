@@ -9,5 +9,5 @@ RUN gem install rake
 
 RUN bundle install
 
-CMD ["ruby", "delete_tweets.rb"]
+CMD ["./delete_all.sh"]
 
